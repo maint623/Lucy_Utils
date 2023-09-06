@@ -1,0 +1,7 @@
+name: Lucy_Utils
+version: '${version}'
+main: kr.lucymc.lucy_utils.Lucy_Utils
+api-version: '1.20'
+commands:
+  PVP:
+  레벨북:
